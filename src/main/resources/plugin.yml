@@ -1,0 +1,9 @@
+name: InventorySave
+main: xyz.acrylicstyle.inventorySave.InventorySavePlugin
+version: @version@
+api-version: 1.16
+commands:
+  inventories:
+    permission: inventorysave.inventories
+    description: "InventorySave"
+    aliases: ["invs"]
